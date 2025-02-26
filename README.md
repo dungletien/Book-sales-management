@@ -1,4 +1,4 @@
-# Hệ thống quản lý Bán Sác
+# Hệ thống quản lý Bán Sách
 
 ## Giới thiệu  
 Hệ thống Quản lý Bán Sách được xây dựng trên nền tảng Laravel, nhằm hỗ trợ quản lý sách, đơn hàng và doanh thu một cách hiệu quả, giúp tối ưu hóa hoạt động của cửa hàng sách.
