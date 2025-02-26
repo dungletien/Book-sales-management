@@ -19,6 +19,8 @@ Hệ thống Quản lý Bán Sách được xây dựng trên nền tảng Larav
 
 ![image](https://github.com/user-attachments/assets/a23c6d34-f947-43b9-979d-56ed7f486659)
 
+![image](https://github.com/user-attachments/assets/1923b33f-54e0-4fcf-a7a6-498280917847)
+
 ## Hướng dẫn cài đặt  
 Sau khi tải file về, thực hiện các bước sau:  
 1. Cài đặt thư viện: `composer install`  
