@@ -22,9 +22,9 @@ Hệ thống Quản lý Bán Sách được xây dựng trên nền tảng Larav
 ![image](https://github.com/user-attachments/assets/1923b33f-54e0-4fcf-a7a6-498280917847)
 
 ## Link
--- **Link repo**: https://github.com/dungletien/Book-sales-management.git
--- **link demo**
--- **link web public**
+- **Link repo**: https://github.com/dungletien/Book-sales-management.git
+- **link demo**
+- **link web public**
 ## Hướng dẫn cài đặt  
 Sau khi tải file về, thực hiện các bước sau:  
 1. Cài đặt thư viện: `composer install`  
