@@ -23,8 +23,8 @@ Hệ thống Quản lý Bán Sách được xây dựng trên nền tảng Larav
 
 ## Link
 - **Link repo**: https://github.com/dungletien/Book-sales-management.git
-- **link demo**
-- **link web public**
+- **link demo**: https://psychic-waddle-44w4g94vpqg274jr-8000.app.github.dev/
+- **link web public**: https://psychic-waddle-44w4g94vpqg274jr-8000.app.github.dev/
 ## Hướng dẫn cài đặt  
 Sau khi tải file về, thực hiện các bước sau:  
 1. Cài đặt thư viện: `composer install`  
