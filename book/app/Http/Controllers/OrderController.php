@@ -84,7 +84,7 @@ class OrderController extends Controller
         }
         $order->delete();
 
-        return redirect()->route('orders.index')->with('message', 'Đơn hàng đã được xóa và số lượng sách đã được phục hồi.');
+        return redirect()->route('orders.index')->with('message', 'Đơn hàng đã được xóa');
     }
 
 }
